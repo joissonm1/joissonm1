@@ -70,6 +70,20 @@ A React web app designed for students and beginners who feel lost when choosing 
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=joissonm1&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=22c55e&fire=22c55e&currStreakLabel=22c55e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joissonm1&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=ffffff)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joissonm1&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=ffffff&hide=issues)
+
+</div>
+
+---
+
 ## 📫 Reach Me
 
 - 📧 [joissonm.miguel@gmail.com](mailto:joissonm.miguel@gmail.com)
