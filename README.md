@@ -1,61 +1,83 @@
-<!--#
-<p float="left" align="left">
-  &nbsp;
-  <a href="https://github.com/jotavare/42-common-core">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_piscine.png" width="265"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/jotavare/42-common-core">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_common_core.png" width="265"/>
-  </a>
-   &nbsp;
-  <a href="https://github.com/jotavare/42-common-core">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_born2beroot.png" width="265"/>
-  </a>
-</p>
--->
+<div align="center">
 
-# 
+# Joisson Miguel
 
-# __About Me__
-- 👋 Hi, I’m Joisson Miguel `(@joissonm1)`!
-- 🎓 Currently studying at `42 School (Luanda)` and Isptec, where I’m immersing myself in the world of coding and technology. 
-- 🚀 Always eager to learn new challenges and expand my skill set.
+**`Student · Developer · Builder`**
 
-## 🛠️ __Technologies & Tools__
-<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Markdown" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Trello" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Slack" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Makefile" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cmake/cmake-original.svg" style="padding-right:10px;" />
-<br>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joisson-miguel/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joissonm.miguel@gmail.com)
+[![DescobreÁrea](https://img.shields.io/badge/DescobreÁrea-Live-22c55e?style=flat&logo=vercel&logoColor=white)](https://www.descobrearea.app/)
 
-<!--
-  ## 🌱 __I’m currently learning__
-  - Advanced C programming, including system-level programming and optimization.
-  - Data structures and algorithms with a focus on efficiency and performance.
--->
+</div>
 
-## 📫 __How to reach me__
-- Email: joissonm.miguel@gmail.com
+---
 
-<!--
-## 🚀 __Fun Fact__
-- I've created a simple C library as part of a project, and it was both challenging and rewarding!
--->
+## About Me
 
-<!---
-lrafa3l/lrafa3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I'm Joisson — a software development student at **42 School Luanda** and **ISPTEC**, based in Angola.
+
+I enjoy building things that solve real problems. My current focus is on frontend development and systems programming, while I keep exploring what interests me most across the tech stack.
+
+---
+
+## 🚀 Featured Project
+
+### [DescobreÁrea](https://www.descobrearea.app/)
+> *Helping students navigate their tech career path — consciously.*
+
+A React web app designed for students and beginners who feel lost when choosing a career in tech. It already has **200+ users**.
+
+**What it offers:**
+- 🗺️ Exploration of tech areas — Frontend, Backend, Data, UI/UX and more
+- ⚖️ Career comparison — tools, salaries, and requirements side by side
+- 📚 Learning roadmaps with practical suggestions for each path
+- 🛠️ Mini-projects to help users experience what each area actually feels like
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
+---
+
+## 🎯 Goals
+
+- Deepen my knowledge of **systems programming** through 42's Common Core curriculum
+- Grow as a **frontend developer** — building interfaces that are both functional and well-designed
+- Work on projects with **real-world impact**, especially in the Angolan tech ecosystem
+- Eventually contribute to **open source** and collaborate with developers globally
+
+---
+
+## 📫 Reach Me
+
+- 📧 [joissonm.miguel@gmail.com](mailto:joissonm.miguel@gmail.com)
+- 💼 [linkedin.com/in/joisson-miguel](https://www.linkedin.com/in/joisson-miguel/)
+- 🌐 [descobrearea.app](https://www.descobrearea.app/)
+
+---
+
+<div align="center">
+  <sub>42 School Luanda · ISPTEC · Angola 🇦🇴</sub>
+</div>
